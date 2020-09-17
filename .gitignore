@@ -1,0 +1,6 @@
+venv
+.idea
+steamAPIkey.txt
+steamapi_env/
+.vscode/
+__pycache__/
